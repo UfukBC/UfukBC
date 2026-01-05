@@ -1,6 +1,6 @@
 ## Hi, I'm Ufuk 👋
 
-I’m a Software Engineering student in Tampere.
+I’m a Software Engineering student in Tampere. And yes I love Gifflar!!!
 
 For me, coding is about building things that I find cool or actually useful.
 I don’t limit myself to a specific tech stack—when I have an idea, I focus on the most efficient approach, learn the right tools, and build it.

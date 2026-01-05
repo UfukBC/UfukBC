@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Ufuk 👋
 
-<!--
-**UfukBC/UfukBC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Software Engineering student in Tampere.
 
-Here are some ideas to get you started:
+For me, coding is about building things that I find cool or actually useful.
+I don’t limit myself to a specific tech stack—when I have an idea, I focus on the most efficient approach, learn the right tools, and build it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, C++, C#, JavaScript (Node.js) |
+| **Backend & Systems** | FastAPI, Express.js, PostgreSQL, REST APIs, Linux |
+| **AI & Data** | PyTorch, OpenCV, NumPy |
+| **DevOps & Tools** | Docker, Git, Postman |
+
+---
+📫 [ufukb.coskunsw@gmail.com](mailto:ufukb.coskunsw@gmail.com)  
+🔗 [linkedin.com/in/ufukbcoskun](https://www.linkedin.com/in/ufukbcoskun)
